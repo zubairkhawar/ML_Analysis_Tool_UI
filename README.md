@@ -242,34 +242,8 @@ We welcome contributions to make NeuralCore ML even better!
 - Ensure responsive design
 - Optimize for performance
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Three.js** for 3D graphics capabilities
-- **Chart.js** for data visualization
-- **Google Fonts** for typography
-- **GitHub** for hosting and collaboration
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/zubairkhawar/ML_Analysis_Tool_UI/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/zubairkhawar/ML_Analysis_Tool_UI/discussions)
-- **Email**: [Contact via GitHub](https://github.com/zubairkhawar)
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=zubairkhawar/ML_Analysis_Tool_UI&type=Date)](https://star-history.com/#zubairkhawar/ML_Analysis_Tool_UI&Date)
-
----
-
-<div align="center">
-
-**Made with ❤️ by [Zubair Khawar](https://github.com/zubairkhawar)**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zubairkhawar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zubairkhawar)
-
-</div> 
+![screencapture-file-Users-zubairkhawar-Desktop-ML-Analysis-Tool-ml-data-analysis-html-2025-06-24-09_38_24](https://github.com/user-attachments/assets/09b1331d-75bf-465c-8f3e-ce7ae92a3ff4)
+<img width="470" alt="Screenshot 2025-06-24 at 9 45 34 AM" src="https://github.com/user-attachments/assets/0dd358fb-8f83-4abb-ac61-ff3a856bff1d" />
+<img width="446" alt="Screenshot 2025-06-24 at 9 45 49 AM" src="https://github.com/user-attachments/assets/78f2256f-7e8d-4179-a2cf-1b277ce61707" />
+<img width="443" alt="Screenshot 2025-06-24 at 9 45 56 AM" src="https://github.com/user-attachments/assets/a28b0f1c-4478-4804-8e70-4fb5e4049fbc" />
+<img width="437" alt="Screenshot 2025-06-24 at 9 46 04 AM" src="https://github.com/user-attachments/assets/7f89e3e5-30e2-46da-b356-3b292d965884" />
